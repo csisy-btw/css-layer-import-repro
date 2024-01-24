@@ -1,0 +1,4 @@
+@layer lib1, lib2;
+
+@import 'lib2' layer(lib2);
+@import 'lib1' layer(lib1);
